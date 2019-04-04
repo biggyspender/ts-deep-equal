@@ -109,7 +109,6 @@
     "semantic-release": "^15.13.3",
     "shelljs": "^0.8.3",
     "travis-deploy-once": "^5.0.9",
-    "ts-entries": "^1.1.0",
     "ts-jest": "^23.10.2",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
@@ -117,5 +116,8 @@
     "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.12.0",
     "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "ts-entries": "^1.1.0"
   }
 }
