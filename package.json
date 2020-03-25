@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "",
   "keywords": [],
+  "sideEffects": false,
   "main": "dist/ts-deep-equal.umd.js",
   "module": "dist/ts-deep-equal.es5.js",
   "typings": "dist/types/ts-deep-equal.d.ts",
