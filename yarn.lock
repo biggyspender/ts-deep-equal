@@ -8211,10 +8211,10 @@ trim-right@^1.0.1:
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
   integrity sha1-yy4SAwZ+DI3h9hQJS5/kVwTqYAM=
 
-ts-entries@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/ts-entries/-/ts-entries-1.1.1.tgz#ebbab301fad3d8fe30f69ea4a72fe7fd6a381f2d"
-  integrity sha512-pogJm20/dK5B58PmuAXuGdOp9eT2T+njfC0dYiejbGB8TZV1pXZpNKRwIPRrx7gKqnsouJ/pLuyPxuzQV8dgSA==
+ts-entries@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/ts-entries/-/ts-entries-1.1.2.tgz#a14b67e9ac8f1d7fe6fd5ec348bb0628f1651db8"
+  integrity sha512-N7vuB2PQIx0NRm9LJhCd0RhDz0Ebf7UYT4thi//qBGeVy+35XDWmRKTOtYYwjDC6Rs9ovnbCfmDjhYk2ucQ9cA==
 
 ts-jest@^23.10.2:
   version "23.10.5"
